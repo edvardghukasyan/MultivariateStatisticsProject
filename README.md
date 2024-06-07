@@ -56,4 +56,4 @@ This project provides a comprehensive analysis of the Wine Quality dataset, usin
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/edvardghukasyan/MultivariateStatisticsProject.git
